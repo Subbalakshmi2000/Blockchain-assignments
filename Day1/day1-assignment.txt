@@ -1,0 +1,49 @@
+1) What is your understanding of block chain?
+
+Ans: Block chain is a mixture of technology which is distributed database and cryptography where information is verifiable,unchangeable,tamper-proof and immutable.
+distributed db-replicating db
+cryptography-can't be decoded,the one who understand can do.
+
+verifiable: The signature or the output can be verified among the others if our sign differs then we need to get the data from neighbor so that our output matches with them.
+
+Immutable: which can't die.
+when crash of data occurred on doing some manipulations on the data we can get our data from the other computer which we have been shared before.
+Tamper-proof:The one block data can be present in the next preceding block and this can be proceeded contiguously.
+
+unchangeable:which cant be changed.
+
+2) What is the core problem Blockchain trying to solve?
+
+Ans: -> no hacking possible
+	 -> huge security Boost
+	 -> Verifiable data
+	 -> Data Transparency
+	 -> Decentraliazation(removing centralized authority)
+	 -> removing the middle man
+
+3) What are the few features which Blockchain will give you?
+-BlockChain provides: -
+
+Ans:
+• Verifiable Facility (Which means it verifies every copy is the same.)
+
+• Unchangeable (Data doesn’t change at any cost.)
+
+• Tamper-proof (Data is changing in 10sec and every block contains encryption key if data will change then the key will also change and it will show an error with other blocks that’s how it is Tamper-proof).
+
+• Immutable (It means data will never destroy or delete or unchaining.)
+
+4) What are all the things a block contains?
+
+Ans: Things inside a block of blockchain are:
+1. Hash(digital address) of the previous block
+2. current data
+3. mining key 
+4. block number
+
+5) How is the verifiability of Blockchain is been attained?
+
+Ans: In each block, we store the hash of the previous block.
+If someone changes the data then the hash will also change and it will lead to different hash in comparison to other users blockchain. All this is possible due to the decentralized database and cryptography.
+Verifiability can be checked by the signature or the hash that has been mined by the miner then that is checked by different miners and approved if there is any other result in the signature it is corrected.
+   So in laymen terms, it is the signature of each block tells us that the ledger is a valid one.
